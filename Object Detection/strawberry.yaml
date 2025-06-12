@@ -1,0 +1,20 @@
+
+path: ./Strawberry 
+
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images  
+
+
+nc: 7
+
+
+names:
+  0: Large Ripe Strawberry
+  1: Large Unripe Strawberry
+  2: Medium Ripe Strawberry
+  3: None - Strawberry
+  4: Small Ripe Strawberry
+  5: Small Unripe Strawberry
+  6: conveyor

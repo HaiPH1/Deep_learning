@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['Large Ripe Strawberry', 'Large Unripe Strawberry', 'Moldy Strawberry', 'None - Strawberry', 'Small Ripe Strawberry', 'Small Unripe Strawberry', 'conveyor']
+
